@@ -45,4 +45,4 @@
 
 Donate (evm) : `0xb7415DB78c886c67DBfB25D3Eb7fcd496dAf9021` or `donates-for-hodlmod.eth`
 
-Паблик : https://t.me/hodlmodeth. [ code ] чат : https://t.me/code_hodlmodeth. Канал с обновлениями и лайф-рофл-контентом : https://t.me/never_broke_again_v1
+Паблик : https://t.me/hodlmodeth. [ code ] чат : https://t.me/code_hodlmodeth. Канал с обновлениями и лайф-рофл-контентом : https://t.me/never_broke_again_v13
